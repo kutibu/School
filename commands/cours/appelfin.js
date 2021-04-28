@@ -1,6 +1,6 @@
 const { MESSAGES } = require("../../util/constants");
 
-module.exports.run = (client) => {
+module.exports.run = (client, message, args) => {
     // Fin formulaire à cocher
     message.channel.send(`I dont understand ...`);
 

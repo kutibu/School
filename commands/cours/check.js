@@ -1,6 +1,6 @@
 const { MESSAGES } = require("../../util/constants");
 
-module.exports.run = (client) => {
+module.exports.run = (client, message, args) => {
     // Check élève
     // Use a promise to wait for the question to reach Discord first
     message.channel.send('Which emoji do you prefer?').then((question) => {

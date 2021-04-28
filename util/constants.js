@@ -3,8 +3,9 @@ const MESSAGES = {
         COURS: {
             ABSENCE: {
                 name: 'absence',
-                aliases: ['abs'],
+                aliases: ['absence', 'abs'],
                 category: 'cours',
+                description: 'description blabla',
                 usage: '<prefix> [groupe]',
                 args: true
             },
@@ -12,6 +13,7 @@ const MESSAGES = {
                 name: 'appel',
                 aliases: ['appel'],
                 category: 'cours',
+                description: 'description blabla',
                 usage: '',
                 args: false
             },
@@ -19,6 +21,7 @@ const MESSAGES = {
                 name: 'appelfin',
                 aliases: ['appelfin'],
                 category: 'cours',
+                description: 'description blabla',
                 usage: '',
                 args: false
             },
@@ -26,6 +29,7 @@ const MESSAGES = {
                 name: 'check',
                 aliases: ['check'],
                 category: 'cours',
+                description: 'description blabla',
                 usage: '',
                 args: false
             },
@@ -33,15 +37,25 @@ const MESSAGES = {
                 name: 'historique',
                 aliases: ['historique'],
                 category: 'cours',
+                description: 'description blabla',
                 usage: '',
                 args: false
             },
         },
         MISC: {
+            HELP: {
+                name: 'help',
+                aliases: ['help'],
+                category: 'misc',
+                description: 'description blabla',
+                usage: '',
+                args: false
+            },
             PING: {
                 name: 'ping',
                 aliases: ['ping'],
                 category: 'misc',
+                description: 'description blabla',
                 usage: '',
                 args: false
             },
@@ -49,6 +63,7 @@ const MESSAGES = {
                 name: 'test',
                 aliases: ['test'],
                 category: 'misc',
+                description: 'description blabla',
                 usage: '',
                 args: false
             }
