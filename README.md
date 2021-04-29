@@ -19,6 +19,8 @@ Comment installer/utiliser le bot discord :
     Pour essayer les fonctionnalités il faut attribuer des rôles lp-fi et lp-app à des membres de votre serveur discord (élèves).
     Il faudra créer ces roles sur votre serveur avec le même nom.
 
+    Il faut que les membres du seveur change leurs pseudo sur le serveur en mettant leurs "Nom + Prenom".
+
     COMMANDES:
 
         !appel [classe]
