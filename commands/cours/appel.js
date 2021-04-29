@@ -45,7 +45,7 @@ module.exports.run = async (client, message, args, MessageReaction) => {
       question.react("✅").then(() => {
         const filter = (reaction) => reaction.emoji.name === "✅";
         question
-          .awaitReactions(filter, { time: 5000 })
+          .awaitReactions(filter, { time: 8000 })
           .then((collected) => {
             collected.forEach((element) => {
               element.users.cache.each((user) => {
