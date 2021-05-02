@@ -33,8 +33,18 @@ Comment installer/utiliser le bot discord :
         !absence [Nom de l'élève]
         Exemple de la commande : !absence Broeks Florian
         But : Le but de cette commande est de savoir combien de fois l'élève sélectionné à été absent dans l'année scolaire.
-    
+
+        !historique
+        But : Le but de cette commande est affiche la lsite des élèves présent et absent 
 
 Overleaft du groupe :
 
-Teffahi Ryan :
+Teffahi Ryan : https://fr.overleaf.com/8888314658wckxyydcgngd
+
+Hama Daouda Boubacar : https://www.overleaf.com/read/pwwwyyyjwvnh
+
+Broeks Florian : https://fr.overleaf.com/6949183171dfywtscqcwxm
+
+Benoit Peutevynck : https://www.overleaf.com/project/608ec6989fe523040beff52e
+
+Noblet Damien : https://www.overleaf.com/read/dnkhqvmhmctb
